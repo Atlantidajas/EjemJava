@@ -7,7 +7,6 @@ public class Main {
 		
 		Profesor pf = new Profesor( 1800, "Laura Gutierrez", 1968 );
 		System.out.println( pf.toString() );//<-- Profesor
-
 	}
 
 }
